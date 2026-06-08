@@ -1,28 +1,41 @@
 # Expense Tracker
 
-A responsive Expense Tracker web application built using HTML, CSS, and JavaScript. This application helps users manage daily expenses, monitor spending habits, and maintain financial records through an intuitive user interface.
+A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript.
 
-## Features
+It helps users manage their daily expenses, track spending habits, and maintain financial records through an easy-to-use interface.
 
-* Add and manage expenses
-* Track spending records
+🚀 Live Demo
+
+🔗 https://anushka9090.github.io/Expense-Tracker/
+
+✨ Features
+
+* Add new expenses
+* Delete expense records
+* Track total expenses
 * User-friendly interface
 * Responsive design
 * Fast and lightweight application
+* Local storage support for saving data
 
-## Technologies Used
+🛠 Tech Stack
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
+* Local Storage
+* GitHub Pages (for deployment)
 
-## Live Demo
+📂 Project Structure
 
-https://anushka9090.github.io/Expense-Tracker/
+expense-tracker/
 
-## Project Structure
+│── index.html
 
-* index.html
-* style.css
-* script.js
+│── style.css
 
+│── script.js
+
+📸 Preview
+
+Expense Tracker with a clean and responsive interface that allows users to record, manage, and track daily expenses efficiently.
